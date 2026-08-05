@@ -3,21 +3,20 @@ public:
     int finalValueAfterOperations(vector<string>& operations) {
         int n = operations.size();
         int X = 0;
-        for (int i = 0; i < n; i++){
-            if (operations[i] == "X++") {
+      
+    for (int i = 0; i < n; i++) {
+        
+        switch (operations[i][1]) {
+            case '+': 
                 X = X + 1;
-            }
-            else if (operations[i] == "X--") {
+                break;
+            case '-':
                 X = X - 1;
-            }
-            else if (operations[i] == "++X") {
-                X = 1 + X;
-            }
-            else if (operations[i] == "--X") {
-                X = X - 1;
-            }
+                break;
+        } 
+    }
 
-        }
-        return X;
+
+    return X;
     }
 };
