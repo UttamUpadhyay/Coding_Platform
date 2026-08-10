@@ -34,4 +34,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/2137-final-value-of-variable-after-performing-operations) |
+| [3379-score-of-a-string](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/3379-score-of-a-string) |
 <!---LeetCode Topics End-->
