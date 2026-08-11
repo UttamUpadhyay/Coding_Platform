@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0020-valid-parentheses) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/2137-final-value-of-variable-after-performing-operations) |
 | [3379-score-of-a-string](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/3379-score-of-a-string) |
 ## Dynamic Programming
@@ -62,4 +63,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/1617-stone-game-iv) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
