@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/2137-final-value-of-variable-after-performing-operations) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/2265-partition-array-according-to-given-pivot) |
+| [3194-find-words-containing-character](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/3194-find-words-containing-character) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Two Pointers
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0020-valid-parentheses) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/2137-final-value-of-variable-after-performing-operations) |
+| [3194-find-words-containing-character](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/3379-score-of-a-string) |
 ## Dynamic Programming
 |  |
