@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/2137-final-value-of-variable-after-performing-operations) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/2265-partition-array-according-to-given-pivot) |
 | [2288-count-operations-to-obtain-zero](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/2288-count-operations-to-obtain-zero) |
+| [3447-clear-digits](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/3447-clear-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/2137-final-value-of-variable-after-performing-operations) |
 | [3194-find-words-containing-character](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/3379-score-of-a-string) |
+| [3447-clear-digits](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/3447-clear-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0020-valid-parentheses) |
+| [3447-clear-digits](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/3447-clear-digits) |
 ## Bracket Sequences
 |  |
 | ------- |
