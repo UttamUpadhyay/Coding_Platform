@@ -2,7 +2,8 @@ class Solution {
 public:
     string clearDigits(string s) {
       stack<char>S1;
-    for (int i = 0; i < s.size(); i++) {
+      int i= 0;
+    while(i < s.size()) {
         char c = s[i];
         if (c >= 'a' && c <= 'z' )
         S1.push(c);
@@ -11,6 +12,7 @@ public:
                 S1.pop();
             }
         }
+        i++;
     }
     string ans;
     while (!S1.empty()) {
