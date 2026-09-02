@@ -1,6 +1,15 @@
 {
   "codechef": {
     "shas": {
+      "ALTADD - ALTADD": {
+        "category": "star1",
+        "date": "2026-09-02T15:44:16.110Z",
+        "difficulty": "Beginner",
+        "displayText": "Beginner",
+        "rating": null,
+        "stars": "1★",
+        "tier": "1★ Beginner Level"
+      },
       "MAXSUM77 - MAXSUM77": {
         "category": "star1",
         "date": "2026-09-02T15:27:47.398Z",
@@ -28,18 +37,18 @@
         "stars": "1★",
         "tier": "1★ Beginner Level"
       },
-      "ALTADD - ALTADD": {
+      "GOODSUBSETEZ - GOODSUBSETEZ": {
         "difficulty": "Beginner",
         "rating": null,
         "stars": "1★",
         "tier": "1★ Beginner Level",
         "category": "star1",
         "displayText": "Beginner",
-        "date": "2026-09-02T15:44:16.110Z"
+        "date": "2026-09-02T16:02:48.968Z"
       }
     },
-    "solved": 4,
-    "star1": 4,
+    "solved": 5,
+    "star1": 5,
     "star2_3": 0,
     "star4_5": 0,
     "star6_7": 0
