@@ -1,20 +1,29 @@
 {
   "codechef": {
-    "solved": 1,
-    "star1": 1,
-    "star2_3": 0,
-    "star4_5": 0,
-    "star6_7": 0,
     "shas": {
       "MISSINGNUM7 - MISSINGNUM7": {
+        "category": "star1",
+        "date": "2026-09-02T15:13:09.327Z",
+        "difficulty": "Beginner",
+        "displayText": "Beginner",
+        "rating": null,
+        "stars": "1★",
+        "tier": "1★ Beginner Level"
+      },
+      "REACHWT - REACHWT": {
         "difficulty": "Beginner",
         "rating": null,
         "stars": "1★",
         "tier": "1★ Beginner Level",
         "category": "star1",
         "displayText": "Beginner",
-        "date": "2026-09-02T15:13:09.327Z"
+        "date": "2026-09-02T15:24:28.014Z"
       }
-    }
+    },
+    "solved": 2,
+    "star1": 2,
+    "star2_3": 0,
+    "star4_5": 0,
+    "star6_7": 0
   }
 }
