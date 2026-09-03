@@ -1,17 +1,14 @@
 class Solution {
 public:
     int hammingWeight(int n) {
-        vector<int>bin;
-        while (n != 0) {
-            bin.push_back(n % 2);
-            n = n / 2;
+        if (n == 0) {
+            return 0;
         }
-        int ans = 0;
-        for (int i = 0; i < bin.size(); i++) {
-            if(bin[i] == 1){
-                ans++;
-            }
-      }
-      return ans;
+        if (n % 2 == 0) {
+            return  hammingWeight( n / 2);
+        }
+        else {
+            return 1 + hammingWeight(n / 2);
+        }
     }
 };
