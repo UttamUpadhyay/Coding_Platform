@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0268-missing-number) |
 ## String
 |  |
@@ -128,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/1013-fibonacci-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
