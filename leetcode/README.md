@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0050-powx-n) |
 | [0062-unique-paths](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0062-unique-paths) |
+| [0231-power-of-two](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0231-power-of-two) |
 | [0258-add-digits](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0258-add-digits) |
 | [0268-missing-number](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/1013-fibonacci-number) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0231-power-of-two) |
 | [0268-missing-number](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0268-missing-number) |
 ## String
 |  |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0050-powx-n) |
+| [0231-power-of-two](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/1013-fibonacci-number) |
 ## Combinatorics
 |  |
