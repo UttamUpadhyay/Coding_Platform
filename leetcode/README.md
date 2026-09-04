@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0231-power-of-two) |
 | [0258-add-digits](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0258-add-digits) |
 | [0268-missing-number](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0268-missing-number) |
+| [0326-power-of-three](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/1013-fibonacci-number) |
 | [1617-stone-game-iv](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/1617-stone-game-iv) |
 | [2288-count-operations-to-obtain-zero](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/2288-count-operations-to-obtain-zero) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0050-powx-n) |
 | [0231-power-of-two](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/1013-fibonacci-number) |
 ## Combinatorics
 |  |
