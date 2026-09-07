@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1617-stone-game-iv](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/1617-stone-game-iv) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/2106-find-greatest-common-divisor-of-array) |
 | [2288-count-operations-to-obtain-zero](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/2288-count-operations-to-obtain-zero) |
+| [2298-count-integers-with-even-digit-sum](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/2298-count-integers-with-even-digit-sum) |
 | [2383-add-two-integers](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/2383-add-two-integers) |
 | [2571-find-the-pivot-integer](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/2571-find-the-pivot-integer) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/2608-count-the-digits-that-divide-a-number) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/2137-final-value-of-variable-after-performing-operations) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/2265-partition-array-according-to-given-pivot) |
 | [2288-count-operations-to-obtain-zero](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/2288-count-operations-to-obtain-zero) |
+| [2298-count-integers-with-even-digit-sum](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/2298-count-integers-with-even-digit-sum) |
 | [3447-clear-digits](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/3447-clear-digits) |
 | [4275-traffic-signal-color](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/4275-traffic-signal-color) |
 ## Bit Manipulation
