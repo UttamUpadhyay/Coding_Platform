@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/1001-n-repeated-element-in-size-2n-array) |
 | [2048-build-array-from-permutation](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/2058-concatenation-of-array) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/2106-find-greatest-common-divisor-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/2137-final-value-of-variable-after-performing-operations) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/2265-partition-array-according-to-given-pivot) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1448-maximum-69-number](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/1448-maximum-69-number) |
 | [1617-stone-game-iv](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/1617-stone-game-iv) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/2106-find-greatest-common-divisor-of-array) |
 | [2288-count-operations-to-obtain-zero](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/2288-count-operations-to-obtain-zero) |
 | [2383-add-two-integers](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/2383-add-two-integers) |
 | [2571-find-the-pivot-integer](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/2571-find-the-pivot-integer) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0258-add-digits) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/2106-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -165,4 +168,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2571-find-the-pivot-integer](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/2571-find-the-pivot-integer) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/2106-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/2106-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
