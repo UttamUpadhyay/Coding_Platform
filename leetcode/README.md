@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/1013-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1617-stone-game-iv](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/1617-stone-game-iv) |
 | [2288-count-operations-to-obtain-zero](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/2288-count-operations-to-obtain-zero) |
 | [2383-add-two-integers](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/2383-add-two-integers) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0231-power-of-two) |
 | [0268-missing-number](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0268-missing-number) |
 | [0342-power-of-four](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0342-power-of-four) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## String
 |  |
 | ------- |
