@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1617-stone-game-iv](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/1617-stone-game-iv) |
 | [2288-count-operations-to-obtain-zero](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/2288-count-operations-to-obtain-zero) |
 | [2383-add-two-integers](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/2383-add-two-integers) |
+| [2571-find-the-pivot-integer](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/2571-find-the-pivot-integer) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/2608-count-the-digits-that-divide-a-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2812-find-the-maximum-achievable-number](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/2812-find-the-maximum-achievable-number) |
@@ -159,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1448-maximum-69-number](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/1448-maximum-69-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [2571-find-the-pivot-integer](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/2571-find-the-pivot-integer) |
 <!---LeetCode Topics End-->
