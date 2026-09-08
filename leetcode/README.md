@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0268-missing-number) |
 | [0326-power-of-three](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0342-power-of-four) |
+| [0728-self-dividing-numbers](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0728-self-dividing-numbers) |
 | [1013-fibonacci-number](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/1013-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/1444-number-of-steps-to-reduce-a-number-to-zero) |
