@@ -1,6 +1,15 @@
 {
   "codechef": {
     "shas": {
+      "ADDIS - ADDIS": {
+        "category": "star1",
+        "date": "2026-09-09T15:35:57.111Z",
+        "difficulty": "Beginner",
+        "displayText": "Beginner",
+        "rating": null,
+        "stars": "1★",
+        "tier": "1★ Beginner Level"
+      },
       "ALTADD - ALTADD": {
         "category": "star1",
         "date": "2026-09-02T15:44:16.110Z",
@@ -100,18 +109,18 @@
         "stars": "1★",
         "tier": "1★ Beginner Level"
       },
-      "ADDIS - ADDIS": {
+      "BTCMINE - BTCMINE": {
         "difficulty": "Beginner",
         "rating": null,
         "stars": "1★",
         "tier": "1★ Beginner Level",
         "category": "star1",
         "displayText": "Beginner",
-        "date": "2026-09-09T15:35:57.111Z"
+        "date": "2026-09-09T15:47:13.395Z"
       }
     },
-    "solved": 12,
-    "star1": 12,
+    "solved": 13,
+    "star1": 13,
     "star2_3": 0,
     "star4_5": 0,
     "star6_7": 0
