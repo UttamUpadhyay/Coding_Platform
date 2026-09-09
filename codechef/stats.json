@@ -55,6 +55,15 @@
         "stars": "1★",
         "tier": "1★ Beginner Level"
       },
+      "MAYOR_PARTY - Welcome to the CodeChef AI Tutor": {
+        "category": "star1",
+        "date": "2026-09-05T14:32:57.717Z",
+        "difficulty": "Difficulty:898",
+        "displayText": "Difficulty:898",
+        "rating": null,
+        "stars": "1★",
+        "tier": "Beginner Level"
+      },
       "MISSINGNUM7 - MISSINGNUM7": {
         "category": "star1",
         "date": "2026-09-02T15:13:09.327Z",
@@ -73,18 +82,18 @@
         "stars": "1★",
         "tier": "1★ Beginner Level"
       },
-      "MAYOR_PARTY - Welcome to the CodeChef AI Tutor": {
-        "difficulty": "Difficulty:898",
+      "EGGBUY - EGGBUY": {
+        "difficulty": "Beginner",
         "rating": null,
         "stars": "1★",
-        "tier": "Beginner Level",
+        "tier": "1★ Beginner Level",
         "category": "star1",
-        "displayText": "Difficulty:898",
-        "date": "2026-09-05T14:32:57.717Z"
+        "displayText": "Beginner",
+        "date": "2026-09-09T15:23:04.096Z"
       }
     },
-    "solved": 9,
-    "star1": 9,
+    "solved": 10,
+    "star1": 10,
     "star2_3": 0,
     "star4_5": 0,
     "star6_7": 0
