@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0342-power-of-four) |
 | [0728-self-dividing-numbers](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0728-self-dividing-numbers) |
 | [1013-fibonacci-number](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/1013-fibonacci-number) |
+| [1303-minimum-moves-to-reach-target-score](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/1303-minimum-moves-to-reach-target-score) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1448-maximum-69-number](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/1448-maximum-69-number) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1303-minimum-moves-to-reach-target-score](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/1303-minimum-moves-to-reach-target-score) |
 | [1448-maximum-69-number](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/1448-maximum-69-number) |
 ## Prefix Sum
 |  |
