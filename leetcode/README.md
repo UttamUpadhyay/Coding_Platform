@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0050-powx-n) |
 | [0062-unique-paths](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0231-power-of-two) |
 | [0258-add-digits](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0258-add-digits) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/1013-fibonacci-number) |
 | [1617-stone-game-iv](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/1617-stone-game-iv) |
 ## Minimax
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/1013-fibonacci-number) |
 ## Divide and Conquer
 |  |
