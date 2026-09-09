@@ -7,6 +7,8 @@ public:
         if (num1 >= num2) {
             return 1 + countOperations(num1 - num2, num2);
         }
+        else {
         return 1 + countOperations(num1, num2 - num1);
+        }
     }
 };
