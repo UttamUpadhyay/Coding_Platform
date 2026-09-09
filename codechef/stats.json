@@ -92,17 +92,26 @@
         "tier": "1★ Beginner Level"
       },
       "UNQSHF - UNQSHF": {
+        "category": "star1",
+        "date": "2026-09-09T15:30:47.226Z",
+        "difficulty": "Beginner",
+        "displayText": "Beginner",
+        "rating": null,
+        "stars": "1★",
+        "tier": "1★ Beginner Level"
+      },
+      "ADDIS - ADDIS": {
         "difficulty": "Beginner",
         "rating": null,
         "stars": "1★",
         "tier": "1★ Beginner Level",
         "category": "star1",
         "displayText": "Beginner",
-        "date": "2026-09-09T15:30:47.226Z"
+        "date": "2026-09-09T15:35:57.111Z"
       }
     },
-    "solved": 11,
-    "star1": 11,
+    "solved": 12,
+    "star1": 12,
     "star2_3": 0,
     "star4_5": 0,
     "star6_7": 0
