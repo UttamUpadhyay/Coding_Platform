@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/2265-partition-array-according-to-given-pivot) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/2876-number-of-employees-who-met-the-target) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3194-find-words-containing-character](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/3194-find-words-containing-character) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0027-remove-element) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/2265-partition-array-according-to-given-pivot) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Math
 |  |
 | ------- |
@@ -146,10 +148,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0268-missing-number) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0268-missing-number) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Recursion
 |  |
 | ------- |
