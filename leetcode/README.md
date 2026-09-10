@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3194-find-words-containing-character](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/3194-find-words-containing-character) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Two Pointers
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/3172-divisible-and-non-divisible-sums-difference) |
 | [3371-harshad-number](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/3371-harshad-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [4168-mirror-distance-of-an-integer](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/4168-mirror-distance-of-an-integer) |
 | [4275-traffic-signal-color](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/4275-traffic-signal-color) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-count-operations-to-obtain-zero](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/2288-count-operations-to-obtain-zero) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/2298-count-integers-with-even-digit-sum) |
 | [3447-clear-digits](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/3447-clear-digits) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/3555-final-array-state-after-k-multiplication-operations-i) |
 | [4275-traffic-signal-color](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/4275-traffic-signal-color) |
 ## Bit Manipulation
 |  |
@@ -192,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/2106-find-greatest-common-divisor-of-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/3555-final-array-state-after-k-multiplication-operations-i) |
 <!---LeetCode Topics End-->
