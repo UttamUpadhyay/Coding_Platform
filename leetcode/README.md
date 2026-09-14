@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0027-remove-element) |
+| [0078-subsets](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0078-subsets) |
 | [0136-single-number](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0268-missing-number) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0078-subsets) |
 | [0136-single-number](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0231-power-of-two) |
@@ -203,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/3555-final-array-state-after-k-multiplication-operations-i) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0078-subsets) |
 <!---LeetCode Topics End-->
