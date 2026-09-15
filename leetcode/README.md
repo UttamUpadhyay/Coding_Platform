@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/1448-maximum-69-number) |
 | [1617-stone-game-iv](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/1617-stone-game-iv) |
 | [1635-number-of-good-pairs](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/1635-number-of-good-pairs) |
+| [1806-count-of-matches-in-tournament](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/1806-count-of-matches-in-tournament) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/2106-find-greatest-common-divisor-of-array) |
 | [2288-count-operations-to-obtain-zero](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/2288-count-operations-to-obtain-zero) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/2298-count-integers-with-even-digit-sum) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0258-add-digits) |
+| [1806-count-of-matches-in-tournament](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/1806-count-of-matches-in-tournament) |
 | [2048-build-array-from-permutation](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/2137-final-value-of-variable-after-performing-operations) |
