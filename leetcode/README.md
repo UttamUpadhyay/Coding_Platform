@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-count-operations-to-obtain-zero](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/2288-count-operations-to-obtain-zero) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/2298-count-integers-with-even-digit-sum) |
 | [2383-add-two-integers](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/2383-add-two-integers) |
+| [2491-smallest-even-multiple](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/2491-smallest-even-multiple) |
 | [2571-find-the-pivot-integer](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/2571-find-the-pivot-integer) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/2608-count-the-digits-that-divide-a-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0258-add-digits) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/2106-find-greatest-common-divisor-of-array) |
+| [2491-smallest-even-multiple](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/2491-smallest-even-multiple) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/3995-gcd-of-odd-and-even-sums) |
 ## Hash Table
 |  |
