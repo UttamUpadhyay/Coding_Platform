@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0268-missing-number) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/1001-n-repeated-element-in-size-2n-array) |
+| [1635-number-of-good-pairs](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/1635-number-of-good-pairs) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/1781-check-if-two-string-arrays-are-equivalent) |
 | [2048-build-array-from-permutation](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/2058-concatenation-of-array) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1448-maximum-69-number](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/1448-maximum-69-number) |
 | [1617-stone-game-iv](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/1617-stone-game-iv) |
+| [1635-number-of-good-pairs](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/1635-number-of-good-pairs) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/2106-find-greatest-common-divisor-of-array) |
 | [2288-count-operations-to-obtain-zero](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/2288-count-operations-to-obtain-zero) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/2298-count-integers-with-even-digit-sum) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0268-missing-number) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/1001-n-repeated-element-in-size-2n-array) |
+| [1635-number-of-good-pairs](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/1635-number-of-good-pairs) |
 | [3412-permutation-difference-between-two-strings](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/3412-permutation-difference-between-two-strings) |
 | [4321-digit-frequency-score](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/4321-digit-frequency-score) |
 ## Pigeonhole Principle
@@ -209,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0078-subsets) |
+## Counting
+|  |
+| ------- |
+| [1635-number-of-good-pairs](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/1635-number-of-good-pairs) |
 <!---LeetCode Topics End-->
