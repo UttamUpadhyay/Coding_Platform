@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [4280-count-digit-appearances](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/4280-count-digit-appearances) |
 ## Two Pointers
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3995-gcd-of-odd-and-even-sums](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/3995-gcd-of-odd-and-even-sums) |
 | [4168-mirror-distance-of-an-integer](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/4168-mirror-distance-of-an-integer) |
 | [4275-traffic-signal-color](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/4275-traffic-signal-color) |
+| [4280-count-digit-appearances](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/4280-count-digit-appearances) |
 | [4321-digit-frequency-score](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/4321-digit-frequency-score) |
 ## Simulation
 |  |
