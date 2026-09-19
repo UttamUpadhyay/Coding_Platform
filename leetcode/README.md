@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0020-valid-parentheses) |
+| [1205-defanging-an-ip-address](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/1205-defanging-an-ip-address) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/1781-check-if-two-string-arrays-are-equivalent) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/2137-final-value-of-variable-after-performing-operations) |
 | [3194-find-words-containing-character](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/3194-find-words-containing-character) |
