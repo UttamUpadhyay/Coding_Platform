@@ -109,6 +109,15 @@
         "stars": "1★",
         "tier": "Beginner Level"
       },
+      "LITUP - LITUP": {
+        "category": "star1",
+        "date": "2026-09-23T14:56:57.643Z",
+        "difficulty": "Beginner",
+        "displayText": "Beginner",
+        "rating": null,
+        "stars": "1★",
+        "tier": "1★ Beginner Level"
+      },
       "MAXSUM77 - MAXSUM77": {
         "category": "star1",
         "date": "2026-09-02T15:27:47.398Z",
@@ -199,18 +208,18 @@
         "stars": "1★",
         "tier": "1★ Beginner Level"
       },
-      "LITUP - LITUP": {
+      "FALLPR - FALLPR": {
         "difficulty": "Beginner",
         "rating": null,
         "stars": "1★",
         "tier": "1★ Beginner Level",
         "category": "star1",
         "displayText": "Beginner",
-        "date": "2026-09-23T14:56:57.643Z"
+        "date": "2026-09-23T16:21:01.478Z"
       }
     },
-    "solved": 23,
-    "star1": 23,
+    "solved": 24,
+    "star1": 24,
     "star2_3": 0,
     "star4_5": 0,
     "star6_7": 0
