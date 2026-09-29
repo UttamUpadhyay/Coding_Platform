@@ -1,7 +1,7 @@
 {
   "hackerrank": {
-    "solved": 1,
-    "easy": 1,
+    "solved": 2,
+    "easy": 2,
     "medium": 0,
     "hard": 0,
     "unknown": 0,
@@ -11,6 +11,12 @@
         "category": "easy",
         "language": "C++14",
         "date": "2026-09-29T04:15:08.183Z"
+      },
+      "tree-postorder-traversal": {
+        "difficulty": "Easy",
+        "category": "easy",
+        "language": "C++14",
+        "date": "2026-09-29T04:16:11.303Z"
       }
     }
   }
