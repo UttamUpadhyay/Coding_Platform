@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0150-evaluate-reverse-polish-notation) |
 | [3447-clear-digits](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/3447-clear-digits) |
 ## Bracket Sequences
@@ -235,4 +236,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/1635-number-of-good-pairs) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
