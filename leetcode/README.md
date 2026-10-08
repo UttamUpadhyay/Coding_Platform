@@ -242,17 +242,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0100-same-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0776-n-ary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0100-same-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0776-n-ary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0100-same-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0145-binary-tree-postorder-traversal) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0100-same-tree) |
 <!---LeetCode Topics End-->
