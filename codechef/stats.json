@@ -73,6 +73,15 @@
         "stars": "1★",
         "tier": "Beginner Level"
       },
+      "FALLPR - FALLPR": {
+        "category": "star1",
+        "date": "2026-09-23T16:21:01.478Z",
+        "difficulty": "Beginner",
+        "displayText": "Beginner",
+        "rating": null,
+        "stars": "1★",
+        "tier": "1★ Beginner Level"
+      },
       "FARSWAPLEX - FARSWAPLEX": {
         "category": "star1",
         "date": "2026-09-16T16:22:22.907Z",
@@ -208,18 +217,18 @@
         "stars": "1★",
         "tier": "1★ Beginner Level"
       },
-      "FALLPR - FALLPR": {
+      "BLUEBLACK - BLUEBLACK": {
         "difficulty": "Beginner",
         "rating": null,
         "stars": "1★",
         "tier": "1★ Beginner Level",
         "category": "star1",
         "displayText": "Beginner",
-        "date": "2026-09-23T16:21:01.478Z"
+        "date": "2026-10-14T14:57:14.927Z"
       }
     },
-    "solved": 24,
-    "star1": 24,
+    "solved": 25,
+    "star1": 25,
     "star2_3": 0,
     "star4_5": 0,
     "star6_7": 0
