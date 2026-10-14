@@ -19,6 +19,15 @@
         "stars": "1★",
         "tier": "1★ Beginner Level"
       },
+      "BLUEBLACK - BLUEBLACK": {
+        "category": "star1",
+        "date": "2026-10-14T14:57:14.927Z",
+        "difficulty": "Beginner",
+        "displayText": "Beginner",
+        "rating": null,
+        "stars": "1★",
+        "tier": "1★ Beginner Level"
+      },
       "BTCMINE - BTCMINE": {
         "category": "star1",
         "date": "2026-09-09T15:47:13.395Z",
@@ -217,18 +226,18 @@
         "stars": "1★",
         "tier": "1★ Beginner Level"
       },
-      "BLUEBLACK - BLUEBLACK": {
+      "CHANGEONE7 - CHANGEONE7": {
         "difficulty": "Beginner",
         "rating": null,
         "stars": "1★",
         "tier": "1★ Beginner Level",
         "category": "star1",
         "displayText": "Beginner",
-        "date": "2026-10-14T14:57:14.927Z"
+        "date": "2026-10-14T14:57:45.453Z"
       }
     },
-    "solved": 25,
-    "star1": 25,
+    "solved": 26,
+    "star1": 26,
     "star2_3": 0,
     "star4_5": 0,
     "star6_7": 0
