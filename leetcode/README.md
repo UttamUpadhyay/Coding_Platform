@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0268-missing-number) |
+| [0682-baseball-game](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0682-baseball-game) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/1001-n-repeated-element-in-size-2n-array) |
 | [1635-number-of-good-pairs](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/1635-number-of-good-pairs) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/1781-check-if-two-string-arrays-are-equivalent) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0258-add-digits) |
+| [0682-baseball-game](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0682-baseball-game) |
 | [1806-count-of-matches-in-tournament](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/1806-count-of-matches-in-tournament) |
 | [2048-build-array-from-permutation](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/2058-concatenation-of-array) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0150-evaluate-reverse-polish-notation) |
+| [0682-baseball-game](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0682-baseball-game) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0776-n-ary-tree-postorder-traversal) |
 | [2128-reverse-prefix-of-word](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/2128-reverse-prefix-of-word) |
 | [3447-clear-digits](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/3447-clear-digits) |
