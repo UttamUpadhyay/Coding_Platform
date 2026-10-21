@@ -91,6 +91,15 @@
         "stars": "1★",
         "tier": "1★ Beginner Level"
       },
+      "EXSHAKE - EXSHAKE": {
+        "category": "star1",
+        "date": "2026-10-21T14:40:22.889Z",
+        "difficulty": "Beginner",
+        "displayText": "Beginner",
+        "rating": null,
+        "stars": "1★",
+        "tier": "1★ Beginner Level"
+      },
       "FACEDIR - Welcome to the CodeChef AI Tutor": {
         "category": "star1",
         "date": "2026-09-05T14:07:15.861Z",
@@ -253,18 +262,18 @@
         "stars": "1★",
         "tier": "1★ Beginner Level"
       },
-      "EXSHAKE - EXSHAKE": {
+      "EXQUIZ - EXQUIZ": {
         "difficulty": "Beginner",
         "rating": null,
         "stars": "1★",
         "tier": "1★ Beginner Level",
         "category": "star1",
         "displayText": "Beginner",
-        "date": "2026-10-21T14:40:22.889Z"
+        "date": "2026-10-21T14:57:08.564Z"
       }
     },
-    "solved": 29,
-    "star1": 29,
+    "solved": 30,
+    "star1": 30,
     "star2_3": 0,
     "star4_5": 0,
     "star6_7": 0
