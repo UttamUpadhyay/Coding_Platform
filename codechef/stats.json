@@ -236,17 +236,26 @@
         "tier": "1★ Beginner Level"
       },
       "WATERMOVE2 - WATERMOVE2": {
+        "category": "star1",
+        "date": "2026-10-14T15:12:50.269Z",
+        "difficulty": "Beginner",
+        "displayText": "Beginner",
+        "rating": null,
+        "stars": "1★",
+        "tier": "1★ Beginner Level"
+      },
+      "BETWEEN - BETWEEN": {
         "difficulty": "Beginner",
         "rating": null,
         "stars": "1★",
         "tier": "1★ Beginner Level",
         "category": "star1",
         "displayText": "Beginner",
-        "date": "2026-10-14T15:12:50.269Z"
+        "date": "2026-10-21T14:39:31.591Z"
       }
     },
-    "solved": 27,
-    "star1": 27,
+    "solved": 28,
+    "star1": 28,
     "star2_3": 0,
     "star4_5": 0,
     "star6_7": 0
