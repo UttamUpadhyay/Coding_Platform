@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [4058-compute-alternating-sum](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/4058-compute-alternating-sum) |
 | [4256-construct-uniform-parity-array-i](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/4256-construct-uniform-parity-array-i) |
 | [4280-count-digit-appearances](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/4280-count-digit-appearances) |
 ## Two Pointers
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2298-count-integers-with-even-digit-sum](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/2298-count-integers-with-even-digit-sum) |
 | [3447-clear-digits](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/3555-final-array-state-after-k-multiplication-operations-i) |
+| [4058-compute-alternating-sum](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/4058-compute-alternating-sum) |
 | [4275-traffic-signal-color](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/4275-traffic-signal-color) |
 ## Bit Manipulation
 |  |
