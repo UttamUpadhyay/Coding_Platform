@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0020-valid-parentheses) |
+| [0782-jewels-and-stones](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/1205-defanging-an-ip-address) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/1781-check-if-two-string-arrays-are-equivalent) |
 | [2128-reverse-prefix-of-word](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/2128-reverse-prefix-of-word) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0268-missing-number) |
+| [0782-jewels-and-stones](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0782-jewels-and-stones) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/1001-n-repeated-element-in-size-2n-array) |
 | [1635-number-of-good-pairs](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/1635-number-of-good-pairs) |
 | [3412-permutation-difference-between-two-strings](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/3412-permutation-difference-between-two-strings) |
