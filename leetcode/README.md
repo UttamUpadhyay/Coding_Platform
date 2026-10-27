@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3778-transform-array-by-parity](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/3778-transform-array-by-parity) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [4058-compute-alternating-sum](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/4058-compute-alternating-sum) |
 | [4256-construct-uniform-parity-array-i](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/4256-construct-uniform-parity-array-i) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0268-missing-number) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3778-transform-array-by-parity](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/3778-transform-array-by-parity) |
 ## Recursion
 |  |
 | ------- |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/1635-number-of-good-pairs) |
+| [3778-transform-array-by-parity](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/3778-transform-array-by-parity) |
 ## Tree
 |  |
 | ------- |
