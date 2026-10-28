@@ -253,6 +253,15 @@
         "stars": "1★",
         "tier": "1★ Beginner Level"
       },
+      "RHYDOOR - RHYDOOR": {
+        "category": "star1",
+        "date": "2026-10-28T16:00:44.040Z",
+        "difficulty": "Beginner",
+        "displayText": "Beginner",
+        "rating": null,
+        "stars": "1★",
+        "tier": "1★ Beginner Level"
+      },
       "SHARING - SHARING": {
         "category": "star1",
         "date": "2026-09-16T14:31:13.677Z",
@@ -280,18 +289,18 @@
         "stars": "1★",
         "tier": "1★ Beginner Level"
       },
-      "RHYDOOR - RHYDOOR": {
+      "ALARMM - ALARMM": {
         "difficulty": "Beginner",
         "rating": null,
         "stars": "1★",
         "tier": "1★ Beginner Level",
         "category": "star1",
         "displayText": "Beginner",
-        "date": "2026-10-28T16:00:44.040Z"
+        "date": "2026-10-28T16:03:05.643Z"
       }
     },
-    "solved": 32,
-    "star1": 32,
+    "solved": 33,
+    "star1": 33,
     "star2_3": 0,
     "star4_5": 0,
     "star6_7": 0
