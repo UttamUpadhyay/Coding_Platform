@@ -208,6 +208,15 @@
         "stars": "1★",
         "tier": "1★ Beginner Level"
       },
+      "ODDPWD - ODDPWD": {
+        "category": "star1",
+        "date": "2026-10-28T15:58:45.569Z",
+        "difficulty": "Beginner",
+        "displayText": "Beginner",
+        "rating": null,
+        "stars": "1★",
+        "tier": "1★ Beginner Level"
+      },
       "PGNATK - PGNATK": {
         "category": "star1",
         "date": "2026-09-23T14:48:47.734Z",
@@ -271,18 +280,18 @@
         "stars": "1★",
         "tier": "1★ Beginner Level"
       },
-      "ODDPWD - ODDPWD": {
+      "RHYDOOR - RHYDOOR": {
         "difficulty": "Beginner",
         "rating": null,
         "stars": "1★",
         "tier": "1★ Beginner Level",
         "category": "star1",
         "displayText": "Beginner",
-        "date": "2026-10-28T15:58:45.569Z"
+        "date": "2026-10-28T16:00:44.040Z"
       }
     },
-    "solved": 31,
-    "star1": 31,
+    "solved": 32,
+    "star1": 32,
     "star2_3": 0,
     "star4_5": 0,
     "star6_7": 0
