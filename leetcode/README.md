@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2128-reverse-prefix-of-word](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/2128-reverse-prefix-of-word) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/2265-partition-array-according-to-given-pivot) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/2917-count-pairs-whose-sum-is-less-than-target) |
+| [4177-reverse-string-prefix](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/4177-reverse-string-prefix) |
 ## Math
 |  |
 | ------- |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3412-permutation-difference-between-two-strings](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/3412-permutation-difference-between-two-strings) |
 | [3447-clear-digits](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/3447-clear-digits) |
 | [3811-reverse-degree-of-a-string](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/3811-reverse-degree-of-a-string) |
+| [4177-reverse-string-prefix](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/4177-reverse-string-prefix) |
 | [4275-traffic-signal-color](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/4275-traffic-signal-color) |
 ## Dynamic Programming
 |  |
