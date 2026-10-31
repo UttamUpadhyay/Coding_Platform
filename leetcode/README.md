@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3412-permutation-difference-between-two-strings](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/3412-permutation-difference-between-two-strings) |
 | [3447-clear-digits](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/3447-clear-digits) |
 | [3811-reverse-degree-of-a-string](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/3811-reverse-degree-of-a-string) |
+| [4087-maximum-substrings-with-distinct-start](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/4087-maximum-substrings-with-distinct-start) |
 | [4177-reverse-string-prefix](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/4177-reverse-string-prefix) |
 | [4275-traffic-signal-color](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/4275-traffic-signal-color) |
 ## Dynamic Programming
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/1635-number-of-good-pairs) |
 | [3412-permutation-difference-between-two-strings](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/3412-permutation-difference-between-two-strings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/3581-the-two-sneaky-numbers-of-digitville) |
+| [4087-maximum-substrings-with-distinct-start](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/4087-maximum-substrings-with-distinct-start) |
 | [4321-digit-frequency-score](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/4321-digit-frequency-score) |
 ## Pigeonhole Principle
 |  |
