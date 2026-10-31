@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/3704-count-partitions-with-even-sum-difference) |
 | [3778-transform-array-by-parity](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/3778-transform-array-by-parity) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [4058-compute-alternating-sum](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/4058-compute-alternating-sum) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/3704-count-partitions-with-even-sum-difference) |
 | [3830-find-closest-person](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/3830-find-closest-person) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/3995-gcd-of-odd-and-even-sums) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2571-find-the-pivot-integer](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/2571-find-the-pivot-integer) |
 | [2714-left-and-right-sum-differences](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/2714-left-and-right-sum-differences) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/3704-count-partitions-with-even-sum-difference) |
 ## Euclidean Algorithm
 |  |
 | ------- |
