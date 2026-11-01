@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/2137-final-value-of-variable-after-performing-operations) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/2265-partition-array-according-to-given-pivot) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2639-separate-the-digits-in-an-array](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/2639-separate-the-digits-in-an-array) |
 | [2714-left-and-right-sum-differences](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/2714-left-and-right-sum-differences) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/2265-partition-array-according-to-given-pivot) |
 | [2288-count-operations-to-obtain-zero](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/2288-count-operations-to-obtain-zero) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/2298-count-integers-with-even-digit-sum) |
+| [2639-separate-the-digits-in-an-array](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/2639-separate-the-digits-in-an-array) |
 | [3447-clear-digits](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/3811-reverse-degree-of-a-string) |
