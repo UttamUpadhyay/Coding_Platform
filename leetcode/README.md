@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0136-single-number](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0167-two-sum-ii-input-array-is-sorted) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0268-missing-number](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0268-missing-number) |
 | [0782-jewels-and-stones](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0782-jewels-and-stones) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/1001-n-repeated-element-in-size-2n-array) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0191-number-of-1-bits](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0191-number-of-1-bits) |
 ## Greedy
 |  |
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0100-same-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0776-n-ary-tree-postorder-traversal) |
 ## Depth-First Search
@@ -293,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0100-same-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0145-binary-tree-postorder-traversal) |
 ## Breadth-First Search
 |  |
