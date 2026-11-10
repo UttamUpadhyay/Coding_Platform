@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/1448-maximum-69-number) |
 | [1617-stone-game-iv](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/1617-stone-game-iv) |
 | [1635-number-of-good-pairs](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/1635-number-of-good-pairs) |
+| [1674-minimum-operations-to-make-array-equal](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/1674-minimum-operations-to-make-array-equal) |
 | [1806-count-of-matches-in-tournament](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/1806-count-of-matches-in-tournament) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/2106-find-greatest-common-divisor-of-array) |
 | [2288-count-operations-to-obtain-zero](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/2288-count-operations-to-obtain-zero) |
