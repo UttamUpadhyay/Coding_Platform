@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0268-missing-number) |
 | [0682-baseball-game](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0682-baseball-game) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/1001-n-repeated-element-in-size-2n-array) |
+| [1019-squares-of-a-sorted-array](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/1019-squares-of-a-sorted-array) |
 | [1635-number-of-good-pairs](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/1635-number-of-good-pairs) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/1781-check-if-two-string-arrays-are-equivalent) |
 | [1791-richest-customer-wealth](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/1791-richest-customer-wealth) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0167-two-sum-ii-input-array-is-sorted) |
+| [1019-squares-of-a-sorted-array](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/1019-squares-of-a-sorted-array) |
 | [2128-reverse-prefix-of-word](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/2128-reverse-prefix-of-word) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/2265-partition-array-according-to-given-pivot) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/0268-missing-number) |
+| [1019-squares-of-a-sorted-array](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/1019-squares-of-a-sorted-array) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3778-transform-array-by-parity](https://github.com/UttamUpadhyay/Coding_Platform/tree/master/LeetCode/3778-transform-array-by-parity) |
